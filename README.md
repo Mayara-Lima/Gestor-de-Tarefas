@@ -1,6 +1,7 @@
 Gestor de tarefas
 
         A app web é um gestor de tarefas que tem o objetivo principal de otimizar toda e qualquer rotina. O gestor tem ligação a uma base de dados e permite que o utilizador faça as seguintes ações:
+        
 - Criar tarefas;
 - Marcar uma tarefa como concluída;
 - Eliminar tarefas.
